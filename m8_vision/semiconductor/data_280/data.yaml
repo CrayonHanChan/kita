@@ -1,0 +1,15 @@
+names:
+- Bdot
+- curve
+- dot
+- straight
+nc: 4
+roboflow:
+  license: CC BY 4.0
+  project: semi_ex3
+  url: https://universe.roboflow.com/myworkspace-uff9a/semi_ex3/dataset/1
+  version: 1
+  workspace: myworkspace-uff9a
+test: ../test/images
+train: /content/drive/MyDrive/hjh_kita_directory/Github/kita_231026/m8_vision/semiconductor/data_280/train/images
+val: /content/drive/MyDrive/hjh_kita_directory/Github/kita_231026/m8_vision/semiconductor/data_280/valid/images

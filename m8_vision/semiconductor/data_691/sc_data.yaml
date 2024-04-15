@@ -1,0 +1,5 @@
+train : /content/drive/MyDrive/hjh_kita_directory/Github/kita_231026/m8_vision/semiconductor/data_691/train.txt
+val : /content/drive/MyDrive/hjh_kita_directory/Github/kita_231026/m8_vision/semiconductor/data_691/valid.txt
+test : /content/drive/MyDrive/hjh_kita_directory/Github/kita_231026/m8_vision/semiconductor/data_691/test.txt
+names : ['budge circuit', 'circle', 'curve circuit', 'cut circuit', 'dot', 'edge circuit', 'fat circuit', 'line', 'scratch', 'short circuit', 'spot', 'thin circuit']
+nc : 12
